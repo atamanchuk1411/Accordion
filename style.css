@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+
+a {
+    display: block;
+    padding: 10px 20px;
+    background: #ddd;
+    color: #121212;
+    text-decoration: none;
+}
+
+.active {
+    background: #000;
+    color: #fff;
+}
+
+.hidden {
+    margin: 0;
+    max-height: 0;
+    visibility: hidden;
+}
